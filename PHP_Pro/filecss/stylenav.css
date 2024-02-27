@@ -1,0 +1,8 @@
+.hover1:hover {
+    background-color: lightseagreen;
+    border-radius: 0.25rem;
+    transition: all 0.8s linear;
+}
+.hover1 {
+    font-family: "Times New Roman", Times, serif;
+}
